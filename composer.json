@@ -1,0 +1,19 @@
+{
+    "name": "ketwaroo/k-wpress",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaasir Ketwaroo",
+            "email": "ketwaroo.yaasir@gmail.com"
+        }
+    ],
+    "require": {
+        "ketwaroo/package-info": "dev-master",
+        "ketwaroo/php-token-reparse": "dev-master"
+    },
+    "require-dev": {
+        "ketwaroo/debug-helper": "dev-master"
+    }
+
+}
